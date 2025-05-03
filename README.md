@@ -34,9 +34,9 @@ The dataset includes salary records for data-related roles from 2020 onward. Key
 
  - Data Exploration & Insights:
 
-  Grouping and aggregation using groupby()
+   Grouping and aggregation using groupby()
 
-  Frequency analysis with value_counts()
+   Frequency analysis with value_counts()
 
 - Identifying dominant roles and company patterns
 
